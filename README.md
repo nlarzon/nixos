@@ -1,0 +1,2 @@
+# nixos
+Playing with nixes
