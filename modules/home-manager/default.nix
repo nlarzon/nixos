@@ -1,0 +1,17 @@
+{inputs, outputs, pkgs, config, ...}:
+{
+  imports = [
+    #./gtk.nix
+    #./shell.nix
+    ./home.nix
+    #./sxhkd.nix
+    ./kitty.nix
+    ./git.nix
+    #./xinit.nix
+    #./rofi.nix
+    #./picom.nix
+    #./polybar.nix
+  ];
+  programs.home-manager.enable = true;
+
+}

@@ -99,6 +99,7 @@
     #  thunderbird
     ];
   };
+  fonts.packages = [ pkgs.fira-code-nerdfont ];
 
   # Enable automatic login for the user.
   services.xserver.displayManager.autoLogin.enable = true;
