@@ -1,5 +1,5 @@
 {
-  description = "My nixos configuration"
+  description = "My nixos configuration";
 
   inputs = {
     # NixOS official package source, using the unstable branch here
