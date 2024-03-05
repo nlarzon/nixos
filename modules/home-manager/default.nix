@@ -2,7 +2,7 @@
 {
   imports = [
     #./gtk.nix
-    #./shell.nix
+    ./shell.nix
     ./home.nix
     #./sxhkd.nix
     ./kitty.nix
