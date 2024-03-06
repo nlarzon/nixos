@@ -7,6 +7,7 @@
     #./sxhkd.nix
     ./kitty.nix
     ./git.nix
+    ./gh.nix
     #./xinit.nix
     #./rofi.nix
     #./picom.nix
