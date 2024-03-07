@@ -2,8 +2,7 @@
 {
   environment.systemPackages = with pkgs; [
 
-    xorg
-    xev
+    xorg.xev
     xclip
 
     # Ricing stuff

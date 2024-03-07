@@ -51,7 +51,6 @@
       gl2 = "git log --pretty='format:%Cgreen%h%Creset %an - %s' --graph";
       glv = "git log --stat";
       gpom = "git pull origin master";
-      gcd = 'cd "git rev-parse --show-toplevel"';
       gtl = "git tag --list";
       ggsup = "git branch --set-upstream-to origin (fish_git_prompt)";
       gdash = "gh dash";

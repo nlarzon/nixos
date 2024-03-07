@@ -4,7 +4,12 @@
     enable = true;
     userEmail = "nlarzon@gmail.com";
     userName = "nlarzon";
-    core.editor = "nvim";
-    commit.verboe = true;
+    extraConfig = {
+    core = {
+     editor = "nvim";
+    };
+    };
+    #coreEditor = "nvim";
+    #commitVerbose = true;
   };
 }
