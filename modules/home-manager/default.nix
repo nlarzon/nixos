@@ -4,7 +4,7 @@
     #./gtk.nix
     ./shell.nix
     ./home.nix
-    #./sxhkd.nix
+    ./sxhkd.nix
     ./kitty.nix
     ./git.nix
     ./gh.nix
