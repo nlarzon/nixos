@@ -57,12 +57,9 @@
   # Configure keymap in X11
   services.xserver = {
     xkb = {
-	layout = "se";
-	variant = "";
+	    layout = "se";
+	    variant = "";
     };
-    #xkb.layout = "se";
-    # xkbVariant = "";
-    #xkb.variant = "";
   };
 
   # Configure console keymap
