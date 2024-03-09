@@ -8,7 +8,8 @@
     ./kitty.nix
     ./git.nix
     ./gh.nix
-    #./xinit.nix
+    ./xinit.nix
+    ./bspwm.nix
     #./rofi.nix
     #./picom.nix
     #./polybar.nix
