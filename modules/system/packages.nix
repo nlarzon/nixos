@@ -21,6 +21,7 @@
     micro
     git
     fira-code-nerdfont
+    monaspace
     fzf
     firefox
     flameshot
