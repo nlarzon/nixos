@@ -6,7 +6,7 @@
       "super + Return" = "kitty fish";
       "super + v" = "firefox";
       "super + shift + s" = "flameshot gui";
-
+      "super + {_,shift + }w" = "bspc node -{c,k}";
 
 
       "super + d" = "rofi -show drun";
