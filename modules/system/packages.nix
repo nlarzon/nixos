@@ -10,6 +10,7 @@
     lxappearance
     catppuccin-papirus-folders
     qt5ct
+    pywal
 
     vim
     neofetch
