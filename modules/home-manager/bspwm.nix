@@ -42,7 +42,8 @@ bspc rule -a "Microsoft Teams - Preview" desktop='^8' follow=off
 bspc rule -a "Cisco AnyConnect Secure Mobility Client" desktop='^9' follow=on state=floating
 
 # source the colors.
-. "${HOME}/.cache/wal/colors.sh"
+. "~/.cache/wal/colors.sh"
+
 
 # Set the border colors.
 bspc config normal_border_color "$color1"
