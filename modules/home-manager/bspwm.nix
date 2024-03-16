@@ -1,7 +1,7 @@
 {inputs, outputs, ...}:
 {
   xdg.configFile."/home/nlarzon/.config/bspwm/bspwmrc".text = ''
-#! /bin/bash
+#! /usr/bin/env bash
 
 pgrep -x sxhkd >/dev/null || sxhkd &
 
