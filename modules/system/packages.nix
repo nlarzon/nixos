@@ -18,6 +18,7 @@
     rofi
     feh
     wget
+    fishPlugins.tide
     micro
     git
     fira-code-nerdfont
@@ -25,7 +26,6 @@
     fzf
     firefox
     flameshot
-
     pulsemixer
     bottom
     eza
