@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-icon="$HOME/.lock.jpeg"
+icon="$HOME/Pictures/system/lock.jpeg"
 tmpbg="/tmp/screen.png"
 
 _lock(){
