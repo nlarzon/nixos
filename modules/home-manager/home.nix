@@ -17,5 +17,6 @@
   home.file."/home/nlarzon/usr/bin/" = {
   source = ./scripts;
   recursive = true;
+  executable = true;
 };
 }
