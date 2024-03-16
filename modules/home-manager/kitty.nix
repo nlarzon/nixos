@@ -2,11 +2,14 @@
 {
   programs.kitty = {
     enable = true;
+
     shellIntegration.enableFishIntegration = true;
     font.name = "FiraCode Nerd Font Mono";
     theme = "Catppuccin-Mocha";
     settings = {
       dynamic_background_opacity = "yes";
+      include = "~/.cache/wal/colors-kitty.conf";
+      
       background_opacity = "0.90";
       confirm_os_window_close = 0;
       scrollback_lines = 2000;
