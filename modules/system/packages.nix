@@ -8,6 +8,7 @@
 
     # Ricing stuff
     fira-code-nerdfont
+    nerd-font-patcher
     lxappearance
     catppuccin-papirus-folders
     qt5ct
@@ -23,7 +24,6 @@
     fishPlugins.tide
     micro
     git
-    fira-code-nerdfont
     monaspace
     fzf
     firefox
