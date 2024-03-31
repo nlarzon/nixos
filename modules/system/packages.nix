@@ -16,6 +16,7 @@
     vim
     neofetch
     polybar
+    zscroll
     rofi
     feh
     wget
