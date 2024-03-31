@@ -2,10 +2,10 @@
 {
   services.picom = {
     enable = true;
-    backend = "glx";
+    backend = "xrender";
     fade = true;
     fadeSteps = [0.1 0.1];
-    vSync = true;
+    vSync = false;
     shadow = false;
     settings = {
       # corners
