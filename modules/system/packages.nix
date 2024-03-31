@@ -4,6 +4,7 @@
 
     xorg.xev
     xclip
+    picom
 
     # Ricing stuff
     fira-code-nerdfont

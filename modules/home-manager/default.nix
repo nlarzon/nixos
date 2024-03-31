@@ -11,7 +11,7 @@
     ./xinit.nix
     ./bspwm.nix
     #./rofi.nix
-    #./picom.nix
+    ./picom.nix
     #./polybar.nix
   ];
   programs.home-manager.enable = true;
