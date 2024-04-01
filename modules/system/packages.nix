@@ -10,6 +10,8 @@
     # Ricing stuff
     fira-code-nerdfont
     nerd-font-patcher
+    material-design-icons
+    material-icons
     nerdfonts
     lxappearance
     catppuccin-papirus-folders
