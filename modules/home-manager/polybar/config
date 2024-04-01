@@ -167,7 +167,7 @@ time-alt = %H:%M
 
 format-prefix-foreground = ${colors.foreground}
 format-underline = ${colors.primary}
-format-prefix = 
+format-prefix = 󰃰
 
 label = %date% %time%
 label-alt = %time%
