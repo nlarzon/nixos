@@ -9,7 +9,7 @@
     shadow = false;
     settings = {
       # corners
-      corner-radius = 16;
+      corner-radius = 5;
       rounded-corners-exclude = [
         "window_type = 'dock'"
         "window_type = 'desktop'"

@@ -9,6 +9,7 @@
     # Ricing stuff
     fira-code-nerdfont
     nerd-font-patcher
+    nerdfonts
     lxappearance
     catppuccin-papirus-folders
     qt5ct
