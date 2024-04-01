@@ -204,7 +204,7 @@ label-padding = 1
 label-connected-padding = 1
 
 format-connected = <label-connected>
-format-connected-prefix = 
+format-connected-prefix = 󰈀
 format-connected-foreground = ${colors.foreground}
 format-connected-padding    = 1
 label-connected = " %ifname%"
@@ -314,7 +314,7 @@ label-padding = 1
 ;   %percentage-core[1-9]% - load percentage for specific core
 label = CPU %percentage:2%%
 label-foreground = ${colors.foreground}
-format-prefix = ""
+format-prefix = "󰍛"
 
 ; Spacing between individual per-core ramps
 ramp-coreload-spacing = 1
