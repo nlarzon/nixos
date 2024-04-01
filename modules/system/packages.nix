@@ -5,6 +5,7 @@
     xorg.xev
     xclip
     picom
+    redshift
 
     # Ricing stuff
     fira-code-nerdfont
