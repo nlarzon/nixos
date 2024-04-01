@@ -14,7 +14,8 @@
     catppuccin-papirus-folders
     qt5ct
     pywal
-
+    scrot
+    i3lock
     vim
     neofetch
     polybar
