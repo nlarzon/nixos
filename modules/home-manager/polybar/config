@@ -218,7 +218,7 @@ interval = 3.0
 label-padding = 1
 
 format-connected = <label-connected>
-format-connected-prefix = 
+format-connected-prefix = 󰈀
 format-connected-foreground = ${colors.foreground}
 format-connected-padding    = 1
 label-connected = " %ifname%"
