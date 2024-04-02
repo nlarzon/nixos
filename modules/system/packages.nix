@@ -18,6 +18,7 @@
     qt5ct
     pywal
     scrot
+    killall
     i3lock
     vim
     neofetch
