@@ -24,6 +24,7 @@
     neofetch
     polybar
     dunst
+    libnotify
     zscroll
     rofi
     feh
