@@ -4,14 +4,14 @@
 #! /usr/bin/env bash
 
 pgrep -x sxhkd >/dev/null || sxhkd &
+wal -R -q &
 
 # Set the cursor
 xsetroot -cursor_name left_ptr &
 
 # pgrep -x picom >/dev/null || picom --config ~/.config/picom/picom.conf &
-# pgrep -x polybar > /dev/null || "$HOME"/.config/polybar/launch.sh &
+pgrep -x polybar > /dev/null || "$HOME"/.config/polybar/launch.sh &
 # pkill copyq || copyq -s main &
-wal -R -q &
 deamonize ~/.config/polybar/launch.sh
 
 
