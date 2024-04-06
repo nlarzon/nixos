@@ -13,6 +13,7 @@
     #./rofi.nix
     ./picom.nix
     ./polybar.nix
+    ./dunst.nix
   ];
   programs.home-manager.enable = true;
 

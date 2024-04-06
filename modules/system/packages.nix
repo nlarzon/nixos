@@ -23,6 +23,7 @@
     vim
     neofetch
     polybar
+    dunst
     zscroll
     rofi
     feh
