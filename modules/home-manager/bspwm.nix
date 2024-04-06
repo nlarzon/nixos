@@ -4,7 +4,7 @@
 #! /usr/bin/env bash
 
 pgrep -x sxhkd >/dev/null || sxhkd &
-wal -R -q &
+# wal -R -q &
 
 # Set the cursor
 xsetroot -cursor_name left_ptr &
@@ -12,7 +12,7 @@ xsetroot -cursor_name left_ptr &
 # pgrep -x picom >/dev/null || picom --config ~/.config/picom/picom.conf &
 pgrep -x polybar > /dev/null || "$HOME"/.config/polybar/launch.sh &
 # pkill copyq || copyq -s main &
-deamonize ~/.config/polybar/launch.sh
+#deamonize ~/.config/polybar/launch.sh
 
 
 bspc config remove_disabled_monitors true
